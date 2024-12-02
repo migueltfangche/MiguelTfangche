@@ -9,7 +9,7 @@ Soy un fuerte defensor de la calidad y creo firmemente que las pruebas son una p
 
 
 - 🔭 I’m currently working on ...Freelance Adventuress
-- 🌱 I’m currently learning ...Javascript and React
+- 🌱 I’m currently learning ...Cypress
 - 👯 I’m looking to collaborate on ...Everyone if can help !
 - 🤔 I’m looking for help with ...Somebody needs
 - 💬 Ask me about ...Anything! Im good talking!
